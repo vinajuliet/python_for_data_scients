@@ -1,2 +1,2 @@
 # python_for_data_scients
-this repostory for begginer data scients
+Project ini adalah praktikum pembbelajaran dari Batch 7
